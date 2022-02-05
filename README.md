@@ -3,7 +3,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-39a757230/)
-[![Twitter Follow](https://img.shields.io/twitter/Follower/pablojrw?style=social)](https://twitter.com/pablojrw)
+[![Twitter Follow](https://twitter/url?url=https%3A%2F%2Fshields.io)](https://twitter.com/pablojrw)
 ![GitHub Followers](https://img.shields.io/github/Followers/PabloJRW?style=Social)
 
 I'm a Junior Data Analyst aspiring to be a Data Scientist.
