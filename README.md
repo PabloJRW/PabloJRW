@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/pablojrw?style=social)](https://twitter.com/pablojrw)
 ![GitHub Followers](https://img.shields.io/github/followers/PabloJRW?style=social)
 
-I'm a Junior Data Analyst aspiring to be a Data Scientist.
+I'm a Junior Data Analyst with some knowledge of Machine Learning.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
