@@ -2,7 +2,7 @@
 ### Junior Data Analyst
 
 
-[![LinkedIn](https://https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-39a757230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-39a757230/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pablojrw?style=social)](https://twitter.com/pablojrw)
 ![GitHub Followers](https://img.shields.io/github/followers/PabloJRW?style=social)
 
