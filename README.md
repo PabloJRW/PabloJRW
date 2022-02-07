@@ -10,12 +10,12 @@ I'm a Junior Data Analyst with some knowledge of Machine Learning.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-4479A1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/matplotlib-4479A1?style=for-the-badge&logo=matplotlib-pyplot)]()
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn)]()
 [![sklearn](https://img.shields.io/badge/sklearn-4479A1?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=microsoft-powerbi&logoColor=white&labelColor=101010)]()
 
