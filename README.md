@@ -8,7 +8,7 @@ I'm a Junior Data Science Analyst with some knowledge of Machine Learning.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-4479A1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
