@@ -22,4 +22,3 @@ I'm a Junior Data Science Analyst with some knowledge of Machine Learning.
 And more...
 
 Feel free to reach me out at: ramoswilkinspj28@gmail.com
-shil
