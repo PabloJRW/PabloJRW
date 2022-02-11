@@ -19,5 +19,5 @@ I'm a Junior Data Science Analyst with some knowledge of Machine Learning.
 </br>
 And more...
 
-Feel free to reach me out at: ![correo-electronico-vacio](https://user-images.githubusercontent.com/65883974/153636802-5f3e1ee3-b1e9-4250-9679-315eb8ec779d.png)
-ramoswilkinspj28@gmail.com
+Feel free to reach me out at: ramoswilkinspj28@gmail.com
+![correo-electronico-vacio](https://user-images.githubusercontent.com/65883974/153636802-5f3e1ee3-b1e9-4250-9679-315eb8ec779d.png)
