@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-39a757230/)
 
-Data Analyst with skills in Machine Learning.
+Data Analyst with Machine Learning skills.
+Proficient in data manipulation, transformation and analysis skills. I have skills for developing supervised machine learning models for classification and regression tasks. I also develop segmentation tasks through the K-Means unsupervised learning algorithm.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
