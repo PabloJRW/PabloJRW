@@ -1,4 +1,4 @@
-# 👋 Hello
+# Hello👋 
 ### Data Analyst
 
 
@@ -13,7 +13,6 @@ Proficient in data manipulation, transformation and analysis skills. I have skil
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=microsoft-powerbi&logoColor=white&labelColor=101010)]()
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]()
 [![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-4479A1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
 [![Matplotlib](https://img.shields.io/badge/matplotlib-4479A1?style=for-the-badge&logo=matplotlib-pyplot)]()
