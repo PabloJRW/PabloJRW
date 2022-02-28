@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-39a757230/)
 
-Data Analyst with some knowledge of Machine Learning.
+Data Analyst with some skills on Machine Learning.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
