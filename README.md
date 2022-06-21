@@ -6,9 +6,9 @@
 
 Tengo conocimiento en minería de datos y desarrollando modelos de aprendizaje automático, tanto supervisado como no supervisado.
 Desarrollo modelos de regresión y clasificación.
-Con respecto al aprendizaje automático no supervisado, tengo expreriencia aplicando métodos de clusterización y reducción de dimensionalidad.
+Con aprendizaje automático no supervisado, tengo expreriencia aplicando métodos de clusterización y reducción de dimensionalidad.
 
-Y todos los días estoy en constante aprendizaje, añadiendo nuevas herramientos a mis habilidades.
+Y todos los días estoy en constante aprendizaje, añadiendo nuevo conocimiento y herramientas a mis habilidades.
 
 ## Habilidades:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
