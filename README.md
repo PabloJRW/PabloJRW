@@ -10,18 +10,17 @@ Con aprendizaje automático no supervisado, tengo expreriencia aplicando método
 
 En constante aprendizaje, añadiendo nuevo conocimiento y herramientas a mis habilidades.
 
-## Habilidades:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=101010&logoColor=white)]()
-[![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=microsoft-powerbi&logoColor=white&labelColor=101010)]()
-[![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas&labelColor=101010)]()
-[![Numpy](https://img.shields.io/badge/Numpy-4479A1?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
-[![Matplotlib](https://img.shields.io/badge/matplotlib-4479A1?style=for-the-badge&logo=matplotlib-pyplot)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=seaborn)]()
-[![sklearn](https://img.shields.io/badge/sklearn-4479A1?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=101010)]()
-</br>
+<h3 align="left">Lenguajes y Herramientas:</h3> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://plotly.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
+
 y más...
 
 Me puedes contactar al correo: ramoswilkinspj28@gmail.com
