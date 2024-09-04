@@ -4,9 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ramos-w-39a757230/)
 
-Tengo conocimiento en minería de datos y desarrollando modelos de aprendizaje automático, tanto supervisado como no supervisado.
-Desarrollo modelos de regresión y clasificación.
-Con aprendizaje automático no supervisado, tengo expreriencia aplicando métodos de clusterización y reducción de dimensionalidad.
+Soy un apasionado por el análisis de datos con varios años dedicados al aprendizaje y desarrollo de habilidades en esta disciplina. Aunque aún no he ejercido profesionalmente como analista de datos, he adquirido un sólido conocimiento y experiencia práctica en el uso de herramientas y técnicas esenciales del sector.
 
 En constante aprendizaje, añadiendo nuevo conocimiento y herramientas a mis habilidades.
 
